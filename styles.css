@@ -3,12 +3,12 @@
 }
 @font-face {
   font-family: "Inter";
-  src: url("/Challenges/stats-preview-card-component-main/fonts/Inter-VariableFont_slnt\,wght.ttf");
+  src: url("./fonts/Inter-Bold.ttf");
   weights: 200, 400, 700;
 }
 @font-face {
   font-family: "Lexend Deca";
-  src: url("/Challenges/stats-preview-card-component-main/fonts/LexendDeca-Regular.ttf");
+  src: url("./fonts/LexendDeca-Regular.ttf");
   weights: 400;
 }
 body {
